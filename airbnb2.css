@@ -1,0 +1,116 @@
+html{
+	height: 100%;
+	background-image: url(airbnb.webp);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center top;
+	position: relative;
+	background-attachment: scroll;
+	margin: auto;
+	padding-bottom: 1px;
+	font-family: sans-serif;
+}
+.site-nav li{
+	float: left;
+	list-style: none;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+.site-nav a{
+	text-decoration: none;
+	color: white;
+}
+.site-nav{
+	margin-left: 700px;
+}
+.sign{
+	background-color: #996633;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	border: none;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.fix{
+	clear: both;
+}
+h5{
+	font-size: 13px;
+	margin-top: 80px;
+	margin-bottom: 0;
+}
+b{
+	margin-left: 130px;
+}
+img{
+	width: 102%;
+	border-radius: 10px;
+}
+.row{
+	margin-top: 600px;
+	margin-right: 40px;
+	margin-left: 80px;
+	font-family: system-ui;
+}
+.col{
+	float: left;
+	width: 100%;
+	padding-right: 20px;
+	box-sizing: border-box;
+}
+.col-xs-5{
+	width: 30%;
+	margin-left: 50px;
+}
+.col-xs-6{
+	width: 20%;
+	margin-top: 10px;
+}
+.col-xs-2{
+	margin-bottom: 110px;
+	margin-top: 20px;
+}
+a b{
+	color: black;
+	text-align: center;
+	margin-left: 640px;
+	font-size: 18px;
+}
+.col-xs-3{
+	width: 25%;
+}
+.col-xs-4{
+	width: 40%;
+	margin-bottom: 200px;
+}
+h1{
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+h2{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+h3{
+	font-weight: normal;
+	font-size: 17px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+h4{
+	font-weight: normal;
+	font-size: 15px;
+	font-family: system-ui;
+	color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+p{
+	margin-top: 0;
+	font-size: 14px;
+}
